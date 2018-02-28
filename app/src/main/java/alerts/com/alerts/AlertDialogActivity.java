@@ -92,6 +92,7 @@ public class AlertDialogActivity extends AppCompatActivity implements View.OnCli
                 alertDialog = builder.show();
 
                 break;
+
             case R.id.button5:
 
                 builder = new AlertDialog.Builder(AlertDialogActivity.this);
