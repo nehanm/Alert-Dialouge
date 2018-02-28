@@ -111,7 +111,7 @@ public class AlertDialogActivity extends AppCompatActivity implements View.OnCli
                     @Override
                     public void onClick(DialogInterface dialogInterface, int i) {
 
-                        Toast.makeText(AlertDialogActivity.this, "Negativebutton",
+                        Toast.makeText(AlertDialogActivity.this, "Negative button",
                                 Toast.LENGTH_SHORT).show();
                     }
                 });
@@ -120,7 +120,7 @@ public class AlertDialogActivity extends AppCompatActivity implements View.OnCli
                     @Override
                     public void onClick(DialogInterface dialogInterface, int i) {
 
-                        Toast.makeText(AlertDialogActivity.this, "Neutralbutton",
+                        Toast.makeText(AlertDialogActivity.this, "Neutral button",
                                 Toast.LENGTH_SHORT).show();
                     }
                 });
