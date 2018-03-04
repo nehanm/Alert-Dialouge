@@ -153,6 +153,7 @@ public class AlertDialogActivity extends AppCompatActivity implements View.OnCli
                 });
 
 
+
                 dialog.show();
 
                 break;
