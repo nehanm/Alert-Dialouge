@@ -153,14 +153,16 @@ public class AlertDialogActivity extends AppCompatActivity implements View.OnCli
                 });
 
 
+
                 dialog.show();
 
                 break;
 
 
+
             case R.id.button4:
 
-                Toast.makeText(AlertDialogActivity.this, "This is toast message",
+                Toast.makeText(AlertDialogActivity.this, "This is neha reddy toast message",
                         Toast.LENGTH_SHORT).show();
 
                 break;
